@@ -1,8 +1,8 @@
 {
   "manifest_version":3,
-  "name": "기본 크롬확장 프로그램-nextjs",
+  "name": "메뉴 크롬확장 프로그램-nextjs",
   "version":"0.0.2",
-  "description": "기본 크롬확장 프로그램-nextjs",
+  "description": "메뉴 크롬확장 프로그램-nextjs",
   "background": {
     "service_worker": "background.js"
   },  
